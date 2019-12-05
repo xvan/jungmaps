@@ -1,7 +1,6 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Juan Antonio Zuloaga Mellino
 
 
