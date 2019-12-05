@@ -1,41 +1,22 @@
-Template
 ========
-
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
-
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
+JungMaps
+========
+What is this?
 --------
 
-- Be awesome
-- Make things faster
+When trying to learn about Jung's personality archetypes I arrived to the conclusion that
+I'm not able to retain all the information about all the personalities, temperaments,
+functions, positions in the stack, etc.
 
-Installation
-------------
+After gasping the model structure, I was able to understasnd that there is a multivariable
+structure based on the function stacks, and then there are different projections over which
+conclusions can be taken.
 
-Install $project by running:
+But my inhability to keep track of the information didn't allow me to evaluate if the conclusions
+allow the model to hold internal consistency, let alone contrast the model with reality.
 
-    install project
+This is my attempt to generate, through an hyperdocument and (hopefully) an interactive concept map,
+an annotation of every new concept I learn about this, err, craft?
 
-Contribute
-----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
 
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
